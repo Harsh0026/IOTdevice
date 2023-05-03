@@ -10,7 +10,7 @@ namespace DotNetIot.Repository.SendTelemetryMessages
 {
     public class SendTelemetryMessages
     {
-        private static string connectionString="HostName=MyLTIIoTHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=ngIoarq8sLezCZ+O7JdPU0/yopkJrlJSU7bf/If95FU=";
+        private static string connectionString="HostName=MyLTIIoTHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=smmFiqPQq9y9+EVWX9wiGzwoxu1dZIg4GjrUPW3OavE=";
         public static RegistryManager registryManager;
         public static DeviceClient client=null;
         public static string myDeviceConnection="";
