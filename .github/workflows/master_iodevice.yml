@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Iodevice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E59C1D686344CA6B8D740C494BD278C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06671FB8B94B42A0A560DA3C6539E2EA }}
           package: .
